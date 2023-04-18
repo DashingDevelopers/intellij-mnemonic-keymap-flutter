@@ -1,9 +1,9 @@
 <idea-plugin>
-    <name>Mnemonic Keymap</name>
-    <id>com.intellij.plugins.mnemonicKeymap</id>
+    <name>Mnemonic Flutter Keymap</name>
+    <id>dev.dashy.intellij.plugins.mnemonicKeymap.flutter</id>
     <version>2022.2.4</version>
     <idea-version since-build="211.0000"/>
-    <vendor>JetBrains</vendor>
+    <vendor>Dashing Developers</vendor>
     <category>Keymap</category>
     <change-notes>
 New shortcuts: stretch tool windows (`Cmd/Ctrl+U, 1/2/3/4`)
@@ -42,7 +42,7 @@ in this keymap
   ]]></description>
     <depends>com.intellij.modules.platform</depends>
     <extensions defaultExtensionNs="com.intellij">
-        <bundledKeymap file="Mnemonic Keymap.xml"/>
-        <bundledKeymap file="Mnemonic Keymap OSX.xml"/>
+        <bundledKeymap file="Mnemonic Keymap - DD Flutter.xml"/>
+        <bundledKeymap file="Mnemonic Keymap OSX - DD Flutter.xml"/>
     </extensions>
 </idea-plugin>

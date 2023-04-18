@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/intellij-mnemonic-keymap.iml" filepath="$PROJECT_DIR$/intellij-mnemonic-keymap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dashydev-mnemonic-keymap-flutter.iml" filepath="$PROJECT_DIR$/dashydev-mnemonic-keymap-flutter.iml" />
     </modules>
   </component>
 </project>
